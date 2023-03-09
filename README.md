@@ -1,1 +1,1 @@
-Delete directory
+Go previous directory
