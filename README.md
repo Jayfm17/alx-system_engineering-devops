@@ -1,1 +1,1 @@
-I love numbers
+Script for creating directory
