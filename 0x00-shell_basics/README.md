@@ -1,1 +1,1 @@
- list of your current directory
+ls to list contents of current directory

@@ -1,1 +1,1 @@
-ls
+list contents of directory
