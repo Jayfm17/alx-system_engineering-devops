@@ -1,1 +1,1 @@
-ls -a display hidden .
+ls -landisplay long format with numerically ids and .
