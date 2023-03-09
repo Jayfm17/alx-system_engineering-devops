@@ -1,1 +1,1 @@
-ls to list contents of current directory
+cd - bring me home
