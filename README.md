@@ -1,1 +1,1 @@
-Go previous directory
+Prints hidden
