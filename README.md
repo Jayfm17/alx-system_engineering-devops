@@ -1,1 +1,1 @@
-Script for creating directory
+Move Betty in my first directory
