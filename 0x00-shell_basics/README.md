@@ -1,1 +1,1 @@
-ls -la
+file /tmp/iamafile

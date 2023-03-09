@@ -1,1 +1,1 @@
-Prints hidden
+File type
