@@ -1,1 +1,1 @@
-ls -l list long format
+ls -a display hidden .

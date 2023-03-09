@@ -1,1 +1,1 @@
-The long format script
+Hidden files script
