@@ -1,2 +1,2 @@
-12-combinations
-
+#!/bin/bash
+echo {aa..zz\oo}
